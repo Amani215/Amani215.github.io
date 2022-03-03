@@ -683,6 +683,21 @@ a:focus {
   background-color: #161825;
 }
 
+.github-btn{
+  display: inline-block;
+  padding: 5px 25px;
+  background-color: #be2623;
+  color: #ffffff;
+  border-radius: 25px;
+  -webkit-transition: all .3s;
+  transition: all .3s;
+  border: 1px solid #be2623;
+}
+
+.github-btn:hover {
+  background-color: transparent;
+  color: #be2623;
+}
 /* footer section*/
 .footer_section {
   background-color: #0e3746;
