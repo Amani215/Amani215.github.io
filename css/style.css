@@ -320,10 +320,12 @@ a:focus {
 
 .slider_section .img-box img {
   /*width: 100%;*/
-  max-width: 225px;
-  max-height: 190px;
+  /* max-width: 225px;
+  max-height: 225px;
   min-width: 225px;
-  min-height: 190px;
+  min-height: 225px; */
+  width: auto;
+  height: 50px;
 }
 
 .slider_section .carousel_btn-box {
